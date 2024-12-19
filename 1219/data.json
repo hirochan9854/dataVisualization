@@ -1,0 +1,17 @@
+[
+  {
+    "label": "Webデザイン",
+    "val": 30,
+    "url": "https://computer.trident.ac.jp/courses/web_design/images/img_point_03.jpg"
+  },
+  {
+    "label": "CG",
+    "val": 60,
+    "url": "https://computer.trident.ac.jp/courses/cg_specialist/images/img_point_01.jpg"
+  },
+  {
+    "label": "ゲーム",
+    "val": 90,
+    "url": "https://computer.trident.ac.jp/courses/game_science/images/img_point_01.jpg"
+  }
+]
